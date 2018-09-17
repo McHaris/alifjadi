@@ -1,0 +1,398 @@
+@font-face {
+	font-family:'Gotham';
+	src:url('../fonts/gotham.ttf');
+}
+
+body {
+	font-family: Gotham;
+	background: #F2F2F2;
+}
+
+#map {
+	width: 100%;
+	height: 400px;
+}
+
+#footer {
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	height:100px;
+	padding-top: 40px
+}
+
+.caption {
+	font-family: 'Oswald', sans-serif;
+}
+
+.caption p {
+	color: #585858;
+}
+
+.spacing-home {
+	height:30px;
+}
+
+.spacing-menu {
+		height:30px;
+	}
+
+#banner {
+	width:100%;
+}
+	
+#banner-menu {
+	padding-top: 110px;
+	width: 100%;
+	height: 300px;
+	font-size: 40px;
+	font-weight: bolder;
+	background: url('../images/banner-menu.png') no-repeat;
+	font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
+}
+
+#banner-aboutus {
+	padding-top: 110px;
+	width: 100%;
+	height: 300px;
+	font-size: 40px;
+	font-weight: bolder;
+	background: url('../images/banner-aboutus.png') no-repeat;
+	font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
+	color: #800517;
+}
+
+#banner-order {
+	padding-top: 110px;
+	width: 100%;
+	height: 300px;
+	font-size: 40px;
+	font-weight: bolder;
+	background: url('../images/banner-order.png') no-repeat;
+	font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
+	color: #AF7817;
+}
+
+#header-order h4 {
+	font-weight: bolder;
+	font-family: 'Oswald', sans-serif;
+	color: #d3312a;
+}
+
+.input-group-addon {
+  border: 0px;
+}
+
+.spacing-order {
+	height:15px;
+}
+
+.menu-order {
+	font-weight:bold;
+}
+
+.flag-one {
+	position: relative;
+    font-size: 30px;
+    width: auto;
+    display: inline-block;
+    margin-left: -30px;
+    margin-top: -30px;
+    font-weight: 700;
+    color: #000;
+    background: #fcd07a;
+    padding: 10px 10px;
+    line-height: 1;
+    z-index: 2;
+    text-transform: uppercase;
+    -webkit-transform: rotate(-6deg);
+    -moz-transform: rotate(-6deg);
+    -ms-transform: rotate(-6deg);
+    -o-transform: rotate(-6deg);
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+}
+
+.navbar-default .navbar-text {
+  color: #777;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #777;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #af7817;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #af7817;
+  background-color: transparent;
+  border-bottom: 2px solid #413839;
+}
+
+@media (max-width: 320px) {
+    h1 {
+		font-size:15px;
+    }
+	
+	h4 {
+		font-size: 13px;
+	}
+	
+	.flag-one {
+		font-size: 13px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+	
+	.spacing-menu {
+		height:15px;
+	}
+	
+	#banner-menu {
+		padding-top: 50px;
+		width: 100%;
+		height: 150px;
+		font-size: 30px;
+	}
+	
+	#banner-order {
+		padding-top: 50px;
+		width: 100%;
+		height: 150px;
+		font-size: 30px;
+	}
+	
+	.caption h3 {
+		font-size:16px;
+	}
+	
+	.caption p {
+		font-size: 12px
+	}
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+    h1 {
+		font-size:17px;
+    }
+	
+	h4 {
+		font-size: 15px;
+	}
+	
+	.flag-one {
+		font-size: 15px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+	
+	#banner-menu {
+	padding-top: 50px;
+	width: 100%;
+	height: 150px;
+	font-size: 40px;
+	}
+	
+	#banner-order {
+	padding-top: 50px;
+	width: 100%;
+	height: 150px;
+	font-size: 40px;
+	}
+	
+	.spacing-menu {
+		height:15px;
+	}
+	
+	.caption h3 {
+		font-size:16px;
+	}
+	
+	.caption p {
+		font-size: 12px
+	}
+
+}
+
+@media (min-width: 481px) and (max-width: 598px) {
+    h1 {
+		font-size:19px;
+    }
+	
+	h4 {
+		font-size: 17px;
+	}
+	
+	.flag-one {
+		font-size: 17px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+}
+
+@media (min-width: 599px) and (max-width: 700px) {
+    h1 {
+		font-size:21px;
+    }
+	
+	h4 {
+		font-size: 19px;
+	}
+	
+	.flag-one {
+		font-size: 19px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+}
+
+@media (min-width: 701px) and (max-width: 800px) {
+    h1 {
+		font-size:23px;
+    }
+	
+	h4 {
+		font-size: 21px;
+	}
+	
+	.flag-one {
+		font-size: 21px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+}
+
+@media (min-width: 801px) and (max-width: 900px) {
+    h1 {
+		font-size:25px;
+    }
+	
+	h4 {
+		font-size: 23px;
+	}
+	
+	.flag-one {
+		font-size: 23px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+}
+
+@media (min-width: 901px) and (max-width: 1024px) {
+    h1 {
+		font-size:27px;
+    }
+	
+	h4 {
+		font-size: 25px;
+	}
+	
+	.flag-one {
+		font-size: 25px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:5px;
+	}
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    h1 {
+		font-size:35px;
+    }
+	
+	h4 {
+		font-size: 27px;
+	}
+	
+	.flag-one {
+		font-size: 27px;
+		margin-left: -10px;
+		margin-top: 0;
+	}
+	
+	.spacing-home {
+		height:8px;
+	}
+}
+
+@media (min-width: 768px) {  
+	.navbar-nav > li > a {
+		padding-top: 32px;
+		padding-bottom: 15px;
+	}
+	
+}
+
+@media (min-width: 768px) and (max-width: 880px) {  
+	#menu
+	{
+		padding-left:22%;
+		
+	}
+}
+
+@media (min-width: 880px) and (max-width: 1023px) {  
+	#menu
+	{
+		padding-left:23%;
+	}
+}
+
+@media (max-width: 1023px) {
+	#logo {
+		text-align: center;
+	}
+}
+
+@media (min-width: 1024px) {
+	#logo {
+		float: left;
+	}
+	
+	.navbar-nav {
+		float: right;
+		margin: 0;
+	}
+}

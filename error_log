@@ -1,0 +1,54 @@
+[27-Jul-2017 09:06:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/onevpro/public_html/dapoermama/application/views/main_view.php on line 100
+[27-Jul-2017 09:06:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/onevpro/public_html/dapoermama/application/views/main_view.php on line 67
+[07-Aug-2017 13:02:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 48
+[07-Aug-2017 13:02:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 48
+[07-Aug-2017 13:02:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 48
+[07-Aug-2017 13:04:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 48
+[07-Aug-2017 13:04:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 48
+[07-Aug-2017 13:05:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 33
+[07-Aug-2017 13:05:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 33
+[07-Aug-2017 13:09:26 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_csrf_name() in /home/onevpro/public_html/dapoermama/application/views/register_view.php on line 53
+[07-Aug-2017 13:15:55 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/onevpro/public_html/dapoermama/application/helpers/func_helper.php on line 35
+[07-Aug-2017 13:16:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/onevpro/public_html/dapoermama/application/helpers/func_helper.php on line 33
+[08-Aug-2017 14:18:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/onevpro/public_html/dapoermama/application/config/routes.php on line 58
+[13-Aug-2017 12:06:26 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/onevpro/public_html/dapoermama/application/views/home_view.php on line 91
+[13-Aug-2017 12:06:39 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/onevpro/public_html/dapoermama/application/controllers/Home.php on line 16
+[13-Aug-2017 12:07:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/onevpro/public_html/dapoermama/application/views/home_view.php on line 91
+[13-Aug-2017 15:32:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Home::format_rupiah() in /home/onevpro/public_html/dapoermama/application/helpers/func_helper.php on line 28
+[13-Aug-2017 19:08:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function check_submit() in /home/onevpro/public_html/dapoermama/application/controllers/Home.php on line 16
+[13-Aug-2017 19:51:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function check_submit() in /home/onevpro/public_html/dapoermama/application/controllers/Cart.php on line 8
+[13-Aug-2017 19:52:20 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/onevpro/public_html/dapoermama/application/helpers/func_helper.php on line 42
+[13-Aug-2017 19:53:04 Asia/Jakarta] PHP Fatal error:  Cannot re-assign $this in /home/onevpro/public_html/dapoermama/application/helpers/func_helper.php on line 38
+[13-Aug-2017 19:53:08 Asia/Jakarta] PHP Fatal error:  Cannot re-assign $this in /home/onevpro/public_html/dapoermama/application/helpers/func_helper.php on line 38
+[15-Aug-2017 08:24:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/onevpro/public_html/dapoermama/application/controllers/Cart.php on line 61
+[20-Feb-2018 08:57:13 Asia/Jakarta] PHP Fatal error:  Call to a member function insert() on null in /home/querydew/public_html/dapoermama/application/controllers/Register.php on line 87
+[20-Feb-2018 11:20:48 Asia/Jakarta] PHP Fatal error:  Call to a member function cekLogin() on null in /home/querydew/public_html/dapoermama/application/controllers/Login.php on line 37
+[22-Feb-2018 05:48:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 54
+[22-Feb-2018 06:30:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 52
+[22-Feb-2018 07:14:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/querydew/public_html/dapoermama/application/views/cart_view.php on line 88
+[22-Feb-2018 07:14:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/querydew/public_html/dapoermama/application/views/cart_view.php on line 88
+[22-Feb-2018 09:12:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 108
+[22-Feb-2018 09:12:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 108
+[22-Feb-2018 10:01:04 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 94
+[22-Feb-2018 10:01:05 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 94
+[22-Feb-2018 10:01:34 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 94
+[22-Feb-2018 10:01:54 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 95
+[23-Feb-2018 05:14:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:14:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:14:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:17:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:18:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:18:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:18:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:18:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 112
+[23-Feb-2018 05:18:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_Cart::total_amount() in /home/querydew/public_html/dapoermama/application/controllers/Cart.php on line 23
+[03-Mar-2018 19:04:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/querydew/public_html/dapoermama/application/controllers/Purchase.php on line 25
+[20-Mar-2018 09:54:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Dapoermama_model::getInoviceUnsuccessByEmail() in /home/querydew/public_html/dapoermama/application/controllers/Transaction.php on line 24
+[20-Mar-2018 09:55:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method Dapoermama_model::getInoviceUnsuccessByEmail() in /home/querydew/public_html/dapoermama/application/controllers/Transaction.php on line 24
+[20-Mar-2018 09:56:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method Dapoermama_model::getInoviceUnsuccessByEmail() in /home/querydew/public_html/dapoermama/application/controllers/Transaction.php on line 24
+[20-Mar-2018 09:58:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Dapoermama_model::getInoviceSuccessByEmail() in /home/querydew/public_html/dapoermama/application/controllers/Transaction.php on line 25
+[20-Mar-2018 09:59:04 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on null in /home/querydew/public_html/dapoermama/application/views/transaction_view.php on line 49
+[23-Mar-2018 05:58:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli::row() in /home/querydew/public_html/dapoermama/application/views/transaction_view.php on line 66
+[23-Mar-2018 07:13:14 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on string in /home/querydew/public_html/dapoermama/application/controllers/Transaction.php on line 71
+[23-Mar-2018 07:19:22 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/querydew/public_html/dapoermama/application/views/transaction_detail_view.php on line 111
+[23-Mar-2018 09:59:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/querydew/public_html/dapoermama/application/controllers/Transaction.php on line 105
